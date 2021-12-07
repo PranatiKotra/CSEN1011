@@ -17,3 +17,8 @@ int main(){
   }
   return 0;
 }
+/*
+Output:
+Enter a three digit number:153
+153 is an ARMSTRONG number
+*/
