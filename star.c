@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-  int i,j,r,c;
+  int i,j,r;
   printf("Enter number of rows:");
   scanf("%d",&r);
   for(i=1;i<=r;i++){
