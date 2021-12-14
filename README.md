@@ -10,3 +10,9 @@
 [perfectnum.c](https://github.com/PranatiKotra/CSEN1011/blob/a7e4a84e7ba910aabbd7df7d701d5578d434e25e/perfectnum.c)<br/>
 [fibonacci.c](https://github.com/PranatiKotra/CSEN1011/blob/a7e4a84e7ba910aabbd7df7d701d5578d434e25e/fibonacci.c)<br/>
 [armstrong.c](https://github.com/PranatiKotra/CSEN1011/blob/a7e4a84e7ba910aabbd7df7d701d5578d434e25e/armstrong.c)<br/>
+[]()<br/>
+[]()<br/>
+[]()<br/>
+[]()<br/>
+[]()<br/>
+[]()<br/>
