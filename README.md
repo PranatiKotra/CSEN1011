@@ -14,7 +14,10 @@
 [star.c](https://github.com/PranatiKotra/CSEN1011/blob/9a50fa82f2e1360a3a58d266654433b88a01c038/star.c)<br/>
 [distance.rap](https://github.com/PranatiKotra/CSEN1011/blob/7767299edd5dc1d80d7cd68ad823724542ef9f27/distance.rap)<br/>
 [evenodd.rap](https://github.com/PranatiKotra/CSEN1011/blob/7767299edd5dc1d80d7cd68ad823724542ef9f27/evenodd.rap)<br/>
-[]()<br/>
+[simpleinterest.c](https://github.com/PranatiKotra/CSEN1011/blob/4c59365289209756ba8e1d7f730a7ce1d876e11d/simpleinterest.c)<br/>
+[pascal.c](https://github.com/PranatiKotra/CSEN1011/blob/4c59365289209756ba8e1d7f730a7ce1d876e11d/pascal.c)<br/>
+[net.c](https://github.com/PranatiKotra/CSEN1011/blob/4c59365289209756ba8e1d7f730a7ce1d876e11d/netsal.c)<br/>
+[marks.c](https://github.com/PranatiKotra/CSEN1011/blob/4c59365289209756ba8e1d7f730a7ce1d876e11d/marks.c)<br/>
 []()<br/>
 []()<br/>
 []()<br/>
