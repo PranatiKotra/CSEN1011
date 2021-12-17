@@ -12,6 +12,9 @@
 [armstrong.c](https://github.com/PranatiKotra/CSEN1011/blob/a7e4a84e7ba910aabbd7df7d701d5578d434e25e/armstrong.c)<br/>
 [reverse.c](https://github.com/PranatiKotra/CSEN1011/blob/e22ef53bf08ff4a79e595c7183350f1835982a1c/reverse.c)<br/>
 [star.c](https://github.com/PranatiKotra/CSEN1011/blob/9a50fa82f2e1360a3a58d266654433b88a01c038/star.c)<br/>
+[distance.rap](https://github.com/PranatiKotra/CSEN1011/blob/7767299edd5dc1d80d7cd68ad823724542ef9f27/distance.rap)<br/>
+[evenodd.rap](https://github.com/PranatiKotra/CSEN1011/blob/7767299edd5dc1d80d7cd68ad823724542ef9f27/evenodd.rap)<br/>
+[]()<br/>
 []()<br/>
 []()<br/>
 []()<br/>
