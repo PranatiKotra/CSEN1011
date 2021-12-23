@@ -1,10 +1,3 @@
-/*
-Algorithm:
-1.Start.
-2.Accept two numbers num1 and devisor.
-3.Reminder can be calculated num1-divisor(num1/divisor)
-4.stop.
-*/
 #include<stdio.h>
 int main()
 {
@@ -21,6 +14,4 @@ Output:
 Enter an integer:100
 Enter divisor:7
 Reminder=2
-Learnings:
-1. Took advantage of integer division.
 */
