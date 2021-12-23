@@ -33,3 +33,4 @@
 [star.c](https://github.com/PranatiKotra/CSEN1011/blob/9a50fa82f2e1360a3a58d266654433b88a01c038/star.c)<br/>
 [pascal.c](https://github.com/PranatiKotra/CSEN1011/blob/4c59365289209756ba8e1d7f730a7ce1d876e11d/pascal.c)<br/>
 [numpyramid.c](https://github.com/PranatiKotra/CSEN1011/blob/43e6f1da7076d4481acc6a8409d45197592b662e/numpyramid.c)<br/>
+[floydtriangle.c](https://github.com/PranatiKotra/CSEN1011/blob/397b3761b932a36d8f513a6d2dbc5387324059f9/floydtriangle.c)<br/>
