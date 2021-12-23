@@ -4,6 +4,9 @@
 [distance.rap](https://github.com/PranatiKotra/CSEN1011/blob/7767299edd5dc1d80d7cd68ad823724542ef9f27/distance.rap)<br/>
 [evenodd.rap](https://github.com/PranatiKotra/CSEN1011/blob/7767299edd5dc1d80d7cd68ad823724542ef9f27/evenodd.rap)<br/>
 [add.rap](https://github.com/PranatiKotra/CSEN1011/blob/de14d58c1bc5eeb39591e7d15ce4c4b81eb87430/add.rap)<br/>
+[prime.rap](https://github.com/PranatiKotra/CSEN1011/blob/85da2541064cc67b651ba8c6c3cc50fd1846989e/prime.rap)<br/>
+[circle.rap](https://github.com/PranatiKotra/CSEN1011/blob/4dcad8fc42587e0d782dc52b3985490c1ddc1e17/circle.rap)<br/>
+[simpleinterest.rap](https://github.com/PranatiKotra/CSEN1011/blob/8863514ddb3131515910c61d76ce3c4c6634a364/simpleinterest.rap)<br/>
 
 
 # CSEN1011 MODULE 1 PROGRAMS
@@ -16,7 +19,7 @@
 [hello-world.c](https://github.com/PranatiKotra/CSEN1011/blob/305d1f35a84c8b1632e26fd59eb27962d6adc1b1/hello-world.c)<br/>
 [even-odd.c](https://github.com/PranatiKotra/CSEN1011/blob/4638212ccdb9bab51e4494b8d750f056578f2568/even-odd.c)<br/>
 [simpleinterest.c](https://github.com/PranatiKotra/CSEN1011/blob/4c59365289209756ba8e1d7f730a7ce1d876e11d/simpleinterest.c)<br/>
-[net.c](https://github.com/PranatiKotra/CSEN1011/blob/4c59365289209756ba8e1d7f730a7ce1d876e11d/netsal.c)<br/>
+[netsal.c](https://github.com/PranatiKotra/CSEN1011/blob/4c59365289209756ba8e1d7f730a7ce1d876e11d/netsal.c)<br/>
 [marks.c](https://github.com/PranatiKotra/CSEN1011/blob/4c59365289209756ba8e1d7f730a7ce1d876e11d/marks.c)<br/>
 
 
