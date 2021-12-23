@@ -1,13 +1,3 @@
-/*
-
-Algorithm:
-1. Start.
-2. Accept two numbers a and b.
-3.Take another temp variable.
-4. temp=a,a=b,and b=temp.
-5. Stop.
-
-*/
 #include<stdio.h>
 int main()
 {
@@ -26,8 +16,4 @@ Before swap
 a=10 b=20
 After swap 
 a=20 b=10
-
-Learnings:
-1. swapping without temporary variable.
-
 */
