@@ -17,6 +17,6 @@ int main()
 }
 /*
 Output:
-Before swapping 0 1
-After swapping 1 0
+Before swapping 32765 -1092075088
+After swapping -1092075088 32765
 */
