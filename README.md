@@ -42,4 +42,4 @@
 
 [callbyvalue.c](https://github.com/PranatiKotra/CSEN1011/blob/00bc5d437d73f31573cfcb65976f298471838c5a/callbyvalue.c)<br/>
 [callbyreference.c](https://github.com/PranatiKotra/CSEN1011/blob/675eb2a3a725008da2447160329110672266f5a1/callbyreference.c)<br/>
-[Perfectnum2.c]()<br/>
+[Perfectnum2.c](https://github.com/PranatiKotra/CSEN1011/blob/afbf696c0528516049ad3e07e56c93ba8cfee3ac/perfectnum2.c)<br/>
