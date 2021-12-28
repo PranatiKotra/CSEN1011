@@ -35,3 +35,11 @@
 [numpyramid.c](https://github.com/PranatiKotra/CSEN1011/blob/43e6f1da7076d4481acc6a8409d45197592b662e/numpyramid.c)<br/>
 [floydtriangle.c](https://github.com/PranatiKotra/CSEN1011/blob/ecca3c80bf88f8426604a483a383d0f6ab060a51/floydtriangle.c)<br/>
 [fullnumpyramid.c](https://github.com/PranatiKotra/CSEN1011/blob/23eecec774cec4883e3802faaed1d041b4800699/fullnumpyramid.c)<br/>
+
+
+# CSEN1011 MODULE 3 PROGRAMS
+
+
+[callbyvalue.c](https://github.com/PranatiKotra/CSEN1011/blob/00bc5d437d73f31573cfcb65976f298471838c5a/callbyvalue.c)<br/>
+[callbyreference.c](https://github.com/PranatiKotra/CSEN1011/blob/00bc5d437d73f31573cfcb65976f298471838c5a/callbyreference.c)<br/>
+[Perfectnum2.c]()<br/>
