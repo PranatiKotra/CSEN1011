@@ -47,7 +47,7 @@
 
 
 # SUMMATIVE ASSEMENT
-[Q1.c](https://github.com/PranatiKotra/CSEN1011/blob/b50722333b701097f830a124fe27688016ea64bf/Q1.c)<br/>
-[Q2.c]()<br/>
-[Q3.c]()<br/>
-[Q4.c]()<br/>
+[Q1character.c](https://github.com/PranatiKotra/CSEN1011/blob/6d706882a0318270445dbaa3a4542095fc4eef73/Q1character.c)<br/>
+[Q2factorial.c](https://github.com/PranatiKotra/CSEN1011/blob/6d706882a0318270445dbaa3a4542095fc4eef73/Q2factorial.c)<br/>
+[Q3calculator.c]()<br/>
+[Q4fibonacci.c]()<br/>
