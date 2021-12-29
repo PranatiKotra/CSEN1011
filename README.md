@@ -46,4 +46,4 @@
 
 
 # SUMMATIVE ASSEMENT
-[summativeassesment1.c]()<br/>
+[summativeassesment1.c](https://github.com/PranatiKotra/CSEN1011/blob/47070d9c66f7fbb679d1458b5ab41ec0d9161477/summativeassesment1.c)<br/>
