@@ -47,4 +47,7 @@
 
 
 # SUMMATIVE ASSEMENT
-[summativeassesment1.c](https://github.com/PranatiKotra/CSEN1011/blob/47070d9c66f7fbb679d1458b5ab41ec0d9161477/summativeassesment1.c)<br/>
+[Q1.c](https://github.com/PranatiKotra/CSEN1011/blob/b50722333b701097f830a124fe27688016ea64bf/Q1.c)<br/>
+[Q2.c]()<br/>
+[Q3.c]()<br/>
+[Q4.c]()<br/>
