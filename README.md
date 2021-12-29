@@ -33,6 +33,10 @@
 [star.c](https://github.com/PranatiKotra/CSEN1011/blob/9a50fa82f2e1360a3a58d266654433b88a01c038/star.c)<br/>
 [pascal.c](https://github.com/PranatiKotra/CSEN1011/blob/4c59365289209756ba8e1d7f730a7ce1d876e11d/pascal.c)<br/>
 [numpyramid.c](https://github.com/PranatiKotra/CSEN1011/blob/43e6f1da7076d4481acc6a8409d45197592b662e/numpyramid.c)<br/>
+
+
+# SUMMATIVE ASSEMENT
+[summativeassesment1.c]()<br/>
 [floydtriangle.c](https://github.com/PranatiKotra/CSEN1011/blob/ecca3c80bf88f8426604a483a383d0f6ab060a51/floydtriangle.c)<br/>
 [fullnumpyramid.c](https://github.com/PranatiKotra/CSEN1011/blob/23eecec774cec4883e3802faaed1d041b4800699/fullnumpyramid.c)<br/>
 
