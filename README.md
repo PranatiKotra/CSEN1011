@@ -7,6 +7,7 @@
 [prime.rap](https://github.com/PranatiKotra/CSEN1011/blob/85da2541064cc67b651ba8c6c3cc50fd1846989e/prime.rap)<br/>
 [circle.rap](https://github.com/PranatiKotra/CSEN1011/blob/4dcad8fc42587e0d782dc52b3985490c1ddc1e17/circle.rap)<br/>
 [simpleinterest.rap](https://github.com/PranatiKotra/CSEN1011/blob/8863514ddb3131515910c61d76ce3c4c6634a364/simpleinterest.rap)<br/>
+[calculator.rap](https://github.com/PranatiKotra/CSEN1011/blob/13ab056e430f8c5f4919942556275e66938fd127/calculator.rap)<br/>
 
 
 # CSEN1011 MODULE 1 PROGRAMS
