@@ -9,6 +9,7 @@
 [simpleinterest.rap](https://github.com/PranatiKotra/CSEN1011/blob/8863514ddb3131515910c61d76ce3c4c6634a364/simpleinterest.rap)<br/>
 [calculator.rap](https://github.com/PranatiKotra/CSEN1011/blob/13ab056e430f8c5f4919942556275e66938fd127/calculator.rap)<br/>
 [factorial.rap](https://github.com/PranatiKotra/CSEN1011/blob/8db145f3d9af346f3bed10945512bf04c8252c8b/factorial.rap)<br/>
+[fibonacci.rap](https://github.com/PranatiKotra/CSEN1011/blob/d308872599e3dab7cf25635181df49724500e1be/fibonacci.rap)<br/>
 
 
 # CSEN1011 MODULE 1 PROGRAMS
