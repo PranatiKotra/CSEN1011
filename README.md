@@ -54,7 +54,7 @@
 [Q2factorial.c](https://github.com/PranatiKotra/CSEN1011/blob/6d706882a0318270445dbaa3a4542095fc4eef73/Q2factorial.c)<br/>
 [Q3calculator.c](https://github.com/PranatiKotra/CSEN1011/blob/44da52b972c21ff8320bb57cb5a54c9df311ca33/Q3calculator.c)<br/>
 [Q4fibonacci.c](https://github.com/PranatiKotra/CSEN1011/blob/44da52b972c21ff8320bb57cb5a54c9df311ca33/Q4fibonacci.c)<br/>
-[Q5nprime.c]()<br/>
+[Q5nprime.c](https://github.com/PranatiKotra/CSEN1011/blob/bffc72b450945f936320da8fef3ef624f6f5750f/Q5nprime.c)<br/>
 [Q6sumfactorial.c](https://github.com/PranatiKotra/CSEN1011/blob/a6fe91e36560aa6e2145c4f11c7d87c817f6fb2f/Q6sumfactorial.c)<br/>
 [Q7collatz.c](https://github.com/PranatiKotra/CSEN1011/blob/a6fe91e36560aa6e2145c4f11c7d87c817f6fb2f/Q7collatz.c)<br/>
 [Q8sumfibonacci.c](https://github.com/PranatiKotra/CSEN1011/blob/a6fe91e36560aa6e2145c4f11c7d87c817f6fb2f/Q8sumfibonacci.c)<br/>
