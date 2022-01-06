@@ -11,6 +11,10 @@
 [factorial.rap](https://github.com/PranatiKotra/CSEN1011/blob/8db145f3d9af346f3bed10945512bf04c8252c8b/factorial.rap)<br/>
 [fibonacci.rap](https://github.com/PranatiKotra/CSEN1011/blob/d308872599e3dab7cf25635181df49724500e1be/fibonacci.rap)<br/>
 [casechange.rap](https://github.com/PranatiKotra/CSEN1011/blob/671bf26ce933c7c544f33664e8aad43d9e6754a5/casechange.rap)<br/>
+[nprime.rap](https://github.com/PranatiKotra/CSEN1011/blob/895261a804c25f02d70a97c4cb5dcbaf7f915577/nprime.rap)<br/>
+[sumfactorial.rap](https://github.com/PranatiKotra/CSEN1011/blob/da300f5329e1ed14937572b6719f12b80f048cfb/sumfactorial.rap)<br/>
+[collatz.rap](https://github.com/PranatiKotra/CSEN1011/blob/a741f497fc4e0ffa0b57af6196ca2635d2c41b0c/collatz.rap)<br/>
+[sumfibonacci.rap](https://github.com/PranatiKotra/CSEN1011/blob/0433ed7a218199c66b5add31be2dc87c069ef59c/sumfibonacci.rap)<br/>
 
 
 # CSEN1011 MODULE 1 PROGRAMS
