@@ -60,7 +60,7 @@
 [max-min-array.c](https://github.com/PranatiKotra/CSEN1011/blob/bb3d10719b9d0c755c6347d2bbbfeb7060dc317c/Module%204%20Programs/max-min-array.c)<br/>
 
 
-# SUMMATIVE ASSEMENT 1 PROGRAMS
+# SUMMATIVE ASSESMENT 1 PROGRAMS
 [Q1casechange.c](https://github.com/PranatiKotra/CSEN1011/blob/1ce97e08dd401765fc9e7f5e1aa6695d370e047d/Q1casechange.c)<br/>
 [Q2factorial.c](https://github.com/PranatiKotra/CSEN1011/blob/6d706882a0318270445dbaa3a4542095fc4eef73/Q2factorial.c)<br/>
 [Q3calculator.c](https://github.com/PranatiKotra/CSEN1011/blob/44da52b972c21ff8320bb57cb5a54c9df311ca33/Q3calculator.c)<br/>
@@ -71,7 +71,7 @@
 [Q8sumfibonacci.c](https://github.com/PranatiKotra/CSEN1011/blob/a6fe91e36560aa6e2145c4f11c7d87c817f6fb2f/Q8sumfibonacci.c)<br/>
 
 
-# SUMMATIVE ASSEMENT 2 PROGRAMS
+# SUMMATIVE ASSESMENT 2 PROGRAMS
 
 
 [Q1ceiling.c](https://github.com/PranatiKotra/CSEN1011/blob/bb3d10719b9d0c755c6347d2bbbfeb7060dc317c/Summative%20Assesment%202/Q1ceiling.c)<br/>
