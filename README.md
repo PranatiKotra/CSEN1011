@@ -58,6 +58,7 @@
 
 [array-example.c](https://github.com/PranatiKotra/CSEN1011/blob/14efada7c376212bf45b25f8d998dee44d29455e/Module%204%20Programs/array-example.c)<br/>
 [max-min-array.c](https://github.com/PranatiKotra/CSEN1011/blob/bb3d10719b9d0c755c6347d2bbbfeb7060dc317c/Module%204%20Programs/max-min-array.c)<br/>
+[add-2-matrices.c](https://github.com/PranatiKotra/CSEN1011/blob/6dabc5e69d9ea6c4cbb557e498ec069b44adb2c5/Module%204%20Programs/add-2-matrices.c)<br/>
 
 
 # SUMMATIVE ASSESMENT 1 PROGRAMS
