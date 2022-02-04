@@ -29,6 +29,7 @@
 [simpleinterest.c](https://github.com/PranatiKotra/CSEN1011/blob/4c59365289209756ba8e1d7f730a7ce1d876e11d/simpleinterest.c)<br/>
 [netsal.c](https://github.com/PranatiKotra/CSEN1011/blob/4c59365289209756ba8e1d7f730a7ce1d876e11d/netsal.c)<br/>
 [marks.c](https://github.com/PranatiKotra/CSEN1011/blob/4c59365289209756ba8e1d7f730a7ce1d876e11d/marks.c)<br/>
+[prime.c](https://github.com/PranatiKotra/CSEN1011/blob/cf84b6ee04d38131cd97e1ece330c4c147a99b9f/Module%201%20Programs/prime.c)<br/>
 
 
 # CSEN1011 MODULE 2 PROGRAMS
