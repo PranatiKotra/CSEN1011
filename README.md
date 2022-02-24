@@ -81,3 +81,9 @@
 [Q3duplicate.c](https://github.com/PranatiKotra/CSEN1011/blob/bb3d10719b9d0c755c6347d2bbbfeb7060dc317c/Summative%20Assesment%202/Q3duplicate.c)<br/>
 [Q4binary.c](https://github.com/PranatiKotra/CSEN1011/blob/bb3d10719b9d0c755c6347d2bbbfeb7060dc317c/Summative%20Assesment%202/Q4binary.c)<br/>
 
+
+# FINAL ASSESMENT PROGRAMS
+
+[Final1.rap](https://github.com/PranatiKotra/CSEN1011/blob/18f98d7ccc35d789820a034ba180d617b6ca5b64/Final1.rap)<br/>
+[]()<br/>
+[]()<br/>
