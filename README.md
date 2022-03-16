@@ -1,4 +1,4 @@
-# RAPTOR FILES
+# SEMISTER 1 PROGRAMS
 
 
 [distance.rap](https://github.com/PranatiKotra/CSEN1011/blob/7767299edd5dc1d80d7cd68ad823724542ef9f27/distance.rap)<br/>
@@ -15,11 +15,6 @@
 [sumfactorial.rap](https://github.com/PranatiKotra/CSEN1011/blob/da300f5329e1ed14937572b6719f12b80f048cfb/sumfactorial.rap)<br/>
 [collatz.rap](https://github.com/PranatiKotra/CSEN1011/blob/a741f497fc4e0ffa0b57af6196ca2635d2c41b0c/collatz.rap)<br/>
 [sumfibonacci.rap](https://github.com/PranatiKotra/CSEN1011/blob/0433ed7a218199c66b5add31be2dc87c069ef59c/sumfibonacci.rap)<br/>
-
-
-# CSEN1011 MODULE 1 PROGRAMS
-
-
 [swap.c](https://github.com/PranatiKotra/CSEN1011/blob/5658996a6389cc92515eb526bd84d09471220988/swap.c)<br/>
 [reminder.c](https://github.com/PranatiKotra/CSEN1011/blob/5658996a6389cc92515eb526bd84d09471220988/reminder.c)<br/>
 [angles.c](https://github.com/PranatiKotra/CSEN1011/blob/5658996a6389cc92515eb526bd84d09471220988/angles.c)<br/>
@@ -30,11 +25,6 @@
 [netsal.c](https://github.com/PranatiKotra/CSEN1011/blob/4c59365289209756ba8e1d7f730a7ce1d876e11d/netsal.c)<br/>
 [marks.c](https://github.com/PranatiKotra/CSEN1011/blob/4c59365289209756ba8e1d7f730a7ce1d876e11d/marks.c)<br/>
 [prime.c](https://github.com/PranatiKotra/CSEN1011/blob/cf84b6ee04d38131cd97e1ece330c4c147a99b9f/Module%201%20Programs/prime.c)<br/>
-
-
-# CSEN1011 MODULE 2 PROGRAMS
-
-
 [perfectnum.c](https://github.com/PranatiKotra/CSEN1011/blob/a7e4a84e7ba910aabbd7df7d701d5578d434e25e/perfectnum.c)<br/>
 [fibonacci.c](https://github.com/PranatiKotra/CSEN1011/blob/a7e4a84e7ba910aabbd7df7d701d5578d434e25e/fibonacci.c)<br/>
 [armstrong.c](https://github.com/PranatiKotra/CSEN1011/blob/a7e4a84e7ba910aabbd7df7d701d5578d434e25e/armstrong.c)<br/>
@@ -44,25 +34,12 @@
 [numpyramid.c](https://github.com/PranatiKotra/CSEN1011/blob/43e6f1da7076d4481acc6a8409d45197592b662e/numpyramid.c)<br/>
 [floydtriangle.c](https://github.com/PranatiKotra/CSEN1011/blob/ecca3c80bf88f8426604a483a383d0f6ab060a51/floydtriangle.c)<br/>
 [fullnumpyramid.c](https://github.com/PranatiKotra/CSEN1011/blob/23eecec774cec4883e3802faaed1d041b4800699/fullnumpyramid.c)<br/>
-
-
-# CSEN1011 MODULE 3 PROGRAMS
-
-
 [callbyvalue.c](https://github.com/PranatiKotra/CSEN1011/blob/00bc5d437d73f31573cfcb65976f298471838c5a/callbyvalue.c)<br/>
 [callbyreference.c](https://github.com/PranatiKotra/CSEN1011/blob/675eb2a3a725008da2447160329110672266f5a1/callbyreference.c)<br/>
 [Perfectnum2.c](https://github.com/PranatiKotra/CSEN1011/blob/afbf696c0528516049ad3e07e56c93ba8cfee3ac/perfectnum2.c)<br/>
-
-
-# CSEN1011 MODULE 4 PROGRAMS
-
-
 [array-example.c](https://github.com/PranatiKotra/CSEN1011/blob/14efada7c376212bf45b25f8d998dee44d29455e/Module%204%20Programs/array-example.c)<br/>
 [max-min-array.c](https://github.com/PranatiKotra/CSEN1011/blob/bb3d10719b9d0c755c6347d2bbbfeb7060dc317c/Module%204%20Programs/max-min-array.c)<br/>
 [add-2-matrices.c](https://github.com/PranatiKotra/CSEN1011/blob/6dabc5e69d9ea6c4cbb557e498ec069b44adb2c5/Module%204%20Programs/add-2-matrices.c)<br/>
-
-
-# SUMMATIVE ASSESMENT 1 PROGRAMS
 [Q1casechange.c](https://github.com/PranatiKotra/CSEN1011/blob/1ce97e08dd401765fc9e7f5e1aa6695d370e047d/Q1casechange.c)<br/>
 [Q2factorial.c](https://github.com/PranatiKotra/CSEN1011/blob/6d706882a0318270445dbaa3a4542095fc4eef73/Q2factorial.c)<br/>
 [Q3calculator.c](https://github.com/PranatiKotra/CSEN1011/blob/44da52b972c21ff8320bb57cb5a54c9df311ca33/Q3calculator.c)<br/>
@@ -71,19 +48,7 @@
 [Q6sumfactorial.c](https://github.com/PranatiKotra/CSEN1011/blob/a6fe91e36560aa6e2145c4f11c7d87c817f6fb2f/Q6sumfactorial.c)<br/>
 [Q7collatz.c](https://github.com/PranatiKotra/CSEN1011/blob/a6fe91e36560aa6e2145c4f11c7d87c817f6fb2f/Q7collatz.c)<br/>
 [Q8sumfibonacci.c](https://github.com/PranatiKotra/CSEN1011/blob/a6fe91e36560aa6e2145c4f11c7d87c817f6fb2f/Q8sumfibonacci.c)<br/>
-
-
-# SUMMATIVE ASSESMENT 2 PROGRAMS
-
-
 [Q1ceiling.c](https://github.com/PranatiKotra/CSEN1011/blob/bb3d10719b9d0c755c6347d2bbbfeb7060dc317c/Summative%20Assesment%202/Q1ceiling.c)<br/>
 [Q2stockprice.c](https://github.com/PranatiKotra/CSEN1011/blob/bb3d10719b9d0c755c6347d2bbbfeb7060dc317c/Summative%20Assesment%202/Q2stockprice.c)<br/>
 [Q3duplicate.c](https://github.com/PranatiKotra/CSEN1011/blob/bb3d10719b9d0c755c6347d2bbbfeb7060dc317c/Summative%20Assesment%202/Q3duplicate.c)<br/>
 [Q4binary.c](https://github.com/PranatiKotra/CSEN1011/blob/bb3d10719b9d0c755c6347d2bbbfeb7060dc317c/Summative%20Assesment%202/Q4binary.c)<br/>
-
-
-# FINAL ASSESMENT PROGRAMS
-
-[Final1.rap](https://github.com/PranatiKotra/CSEN1011/blob/18f98d7ccc35d789820a034ba180d617b6ca5b64/Final1.rap)<br/>
-[]()<br/>
-[]()<br/>
